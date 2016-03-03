@@ -31,6 +31,8 @@ gem 'font-awesome-sass', '~> 4.5.0'
 
 gem 'annotate', '~>2.6.6'
 
+gem 'awesome_print'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
